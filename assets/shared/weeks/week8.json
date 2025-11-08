@@ -1,0 +1,27 @@
+{
+	"storyName": "you'll have a bad time, kid.",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "sans",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"megalomaniac",
+			"sans",
+			[
+				35,
+				35,
+				35
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "bad time"
+}
