@@ -7,7 +7,7 @@ permissions:
 
 env:
   PROJECT_NAME: PsychEngine
-  REPO_PATH: Newbi102/FNF-PsychEngine-Mobile-1.0.4-2-
+  REPO_PATH: Newbion11/FNF-PsychEngine-Mobile-1.0.4-2-
 
 jobs:
   get-commit-hash:
