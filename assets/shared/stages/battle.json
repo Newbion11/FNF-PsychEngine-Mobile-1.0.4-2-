@@ -1,0 +1,77 @@
+{
+	"camera_boyfriend": [
+		150,
+		-700
+	],
+	"preload": {
+		"images/gore/": 2,
+		"images/limo/bgLimo": 3,
+		"images/limo/limoSunset": 3,
+		"images/limo/limoDrive": 2,
+		"images/limo/fastCarLol": 3,
+		"images/limo/limoDancer": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "sans",
+		"gf": "papyrus"
+	},
+	"boyfriend": [
+		589,
+		848
+	],
+	"stageUI": "",
+	"girlfriend": [
+		784,
+		-18
+	],
+	"objects": [
+		{
+			"x": 136,
+			"y": 230,
+			"scale": [
+				1.15,
+				1.15
+			],
+			"image": "background",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		200,
+		0
+	],
+	"defaultZoom": 0.65,
+	"opponent": [
+		283,
+		-108
+	],
+	"directory": "",
+	"camera_speed": 1.6,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		5,
+		40
+	]
+}
