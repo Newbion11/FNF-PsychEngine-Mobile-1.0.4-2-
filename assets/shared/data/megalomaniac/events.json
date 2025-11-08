@@ -1,0 +1,80 @@
+{
+	"events": [
+		[
+			12857.1428571429,
+			[
+				["BlackScreen", "Add", "game"]
+			]
+		],
+		[
+			13714.2857142857,
+			[
+				["BlackScreen", "Remove", "game"],
+				["Add Camera Zoom", "0.045", "0.07"]
+			]
+		],
+		[
+			41142.8571428572,
+			[
+				["BlackScreen", "Add", "game"]
+			]
+		],
+		[
+			41357.1428571429,
+			[
+				["BlackScreen", "Remove", "game"],
+				["Add Camera Zoom", "0.045", "0.07"]
+			]
+		],
+		[
+			44571.4285714286,
+			[
+				["BlackScreen", "Add", "game"]
+			]
+		],
+		[
+			44785.7142857143,
+			[
+				["BlackScreen", "Remove", "game"],
+				["Add Camera Zoom", "0.045", "0.07"]
+			]
+		],
+		[
+			54428.5714285715,
+			[
+				["BlackScreen", "Add", "game"]
+			]
+		],
+		[
+			54857.1428571429,
+			[
+				["BlackScreen", "Remove", "game"]
+			]
+		],
+		[
+			122571.428571428,
+			[
+				["BlackScreen", "Add", "game"]
+			]
+		],
+		[
+			123428.571428571,
+			[
+				["BlackScreen", "Remove", "game"]
+			]
+		],
+		[
+			136285.714285714,
+			[
+				["BlackScreen", "Add", "game"]
+			]
+		],
+		[
+			137142.857142857,
+			[
+				["BlackScreen", "Remove", "game"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
