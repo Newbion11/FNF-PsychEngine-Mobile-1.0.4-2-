@@ -1,0 +1,1 @@
+cameraFade('game':String, '000000':String, 0.25:Float, forceReset:Bool, ?fadeOut:Bool = true):Void
